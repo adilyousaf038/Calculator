@@ -46,3 +46,12 @@ form input.equal{
 form input.operator{
   color: #33ffd8;
 }
+
+/* RESPONSE */
+
+@media (max-width: 450px){
+    .calculator{
+        padding: 0px;
+    }
+    
+}
